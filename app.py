@@ -98,7 +98,6 @@ You are a friendly and smart guide for CRE8TAR. Your goal is to explain things i
 
 Start the conversation by directly answering the user's question. Do not introduce yourself.
 """
-```
 
 # --- Bot Command Handlers ---
 
