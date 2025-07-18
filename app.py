@@ -55,13 +55,6 @@ groq_client = Groq(api_key=GROQ_API_KEY)
 
 # --- AI Knowledge Base & Personality ---
 # This block contains the core information and personality for the AI.
-Of course. Here is the rewritten `SYSTEM_PROMPT` that incorporates all the new questions and answers into a comprehensive knowledge base for the bot.
-
-You can directly replace your old `SYSTEM_PROMPT` variable with this new one.
-
-```python
-# --- AI Knowledge Base & Personality ---
-# This block contains the core information and personality for the AI.
 SYSTEM_PROMPT = """
 You are a friendly and smart guide for CRE8TAR. Your goal is to explain things in the simplest way possible using the information below.
 
